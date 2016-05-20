@@ -12,7 +12,7 @@ import (
 
 	"github.com/Unknwon/com"
 
-	git "github.com/gogits/git-module"
+	git "github.com/richmahn/git-module"
 	api "github.com/gogits/go-gogs-client"
 
 	"github.com/gogits/gogs/models"

@@ -5,7 +5,7 @@
 package repo
 
 import (
-	"github.com/gogits/git-module"
+	"github.com/richmahn/git-module"
 
 	"github.com/gogits/gogs/models"
 	"github.com/gogits/gogs/modules/context"

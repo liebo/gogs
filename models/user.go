@@ -24,7 +24,7 @@ import (
 	"github.com/go-xorm/xorm"
 	"github.com/nfnt/resize"
 
-	"github.com/gogits/git-module"
+	"github.com/richmahn/git-module"
 
 	"github.com/gogits/gogs/modules/avatar"
 	"github.com/gogits/gogs/modules/base"

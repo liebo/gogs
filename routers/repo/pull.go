@@ -11,7 +11,7 @@ import (
 
 	"github.com/Unknwon/com"
 
-	"github.com/gogits/git-module"
+	"github.com/richmahn/git-module"
 
 	"github.com/gogits/gogs/models"
 	"github.com/gogits/gogs/modules/auth"

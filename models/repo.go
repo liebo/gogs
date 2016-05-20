@@ -28,7 +28,7 @@ import (
 	"gopkg.in/ini.v1"
 	gouuid "github.com/satori/go.uuid"
 
-	git "github.com/gogits/git-module"
+	git "github.com/richmahn/git-module"
 	api "github.com/gogits/go-gogs-client"
 
 	"github.com/gogits/gogs/modules/bindata"

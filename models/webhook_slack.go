@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gogits/git-module"
+	"github.com/richmahn/git-module"
 	api "github.com/gogits/go-gogs-client"
 )
 

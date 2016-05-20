@@ -10,7 +10,7 @@ import (
 	"os/exec"
 	"strings"
 
-	git "github.com/gogits/git-module"
+	git "github.com/richmahn/git-module"
 
 	"github.com/gogits/gogs/modules/log"
 )

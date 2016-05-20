@@ -5,7 +5,7 @@
 package models
 
 import (
-	"github.com/gogits/git-module"
+	"github.com/richmahn/git-module"
 )
 
 type Branch struct {

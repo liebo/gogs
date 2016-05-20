@@ -40,7 +40,7 @@ imports:
   version: 2404f777256163ea3eadb273dada5dcb037993c0
 - name: github.com/gogits/cron
   version: 3abc0f88f2062336bcc41b43a4febbd847a390ce
-- name: github.com/gogits/git-module
+- name: github.com/richmahn/git-module
   version: 76e8cce6c7ef3ba1cf75752261c721ebf14cd129
 - name: github.com/gogits/go-gogs-client
   version: 01270dfe22e92d99ce9402fedba4530ad8810100
